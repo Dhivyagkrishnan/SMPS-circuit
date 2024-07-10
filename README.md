@@ -5,7 +5,13 @@ SMPS or Switched-Mode Power Supply, is a type of power supply that uses switchin
 <br>
 
 
-## Block diagram of SMPS circuit 
-![SMPS block diagram]<img width="582" alt="image" src="https://github.com/Dhivyagkrishnan/SMPS-circuit/assets/154699626/bb6d9cee-4955-44e7-86a1-69f4f15c0d84">
+ ## SMPS circuit 
+ ![image](https://github.com/Dhivyagkrishnan/SMPS-circuit/assets/154699626/63defc59-47f8-4760-9247-172859138e1c)
+
+ <br>
+
+ 
+
+
 
 
